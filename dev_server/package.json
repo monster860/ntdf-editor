@@ -1,0 +1,17 @@
+{
+  "name": "ntdf-editor-dev-server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "ntdf-editor-dev-server": "dev_server.js"
+  },
+  "files": [
+    "dev_server.js"
+  ],
+  "dependencies": {
+    "emu-pine-client": "^1.0.0",
+    "ws": "^8.5.0"
+  }
+}

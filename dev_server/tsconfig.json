@@ -17,11 +17,10 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": true,
     "downlevelIteration": true,
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "dev_server.ts"
   ]
 }
