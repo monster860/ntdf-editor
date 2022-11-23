@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ntdf-editor/static/css/main.3799d5a7.css",
-    "main.js": "/ntdf-editor/static/js/main.04ea69e7.js",
+    "main.js": "/ntdf-editor/static/js/main.9cff8de8.js",
     "static/js/787.5932cded.chunk.js": "/ntdf-editor/static/js/787.5932cded.chunk.js",
     "index.html": "/ntdf-editor/index.html",
     "main.3799d5a7.css.map": "/ntdf-editor/static/css/main.3799d5a7.css.map",
-    "main.04ea69e7.js.map": "/ntdf-editor/static/js/main.04ea69e7.js.map",
+    "main.9cff8de8.js.map": "/ntdf-editor/static/js/main.9cff8de8.js.map",
     "787.5932cded.chunk.js.map": "/ntdf-editor/static/js/787.5932cded.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3799d5a7.css",
-    "static/js/main.04ea69e7.js"
+    "static/js/main.9cff8de8.js"
   ]
 }
