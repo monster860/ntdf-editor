@@ -19,7 +19,7 @@
     "browserify-zlib": "^0.2.0",
     "buffer": "^6.0.3",
     "gl-matrix": "^3.4.3",
-    "ntdf-modding-toolkit": "^0.2.0",
+    "ntdf-modding-toolkit": "0.2.1",
     "process": "^0.11.10",
     "react": "^17.0.2",
     "react-app-rewired": "^2.1.11",
